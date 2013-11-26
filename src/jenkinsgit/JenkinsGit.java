@@ -26,6 +26,7 @@ public class JenkinsGit {
         float test = 0;
         
         System.out.println(testJenkins + test + "willian");
+        System.out.println(testJenkins + test + "testenovo");
 //        WebDriver driver = null;
 //        FirefoxProfile profile = new FirefoxProfile();
 //        profile.setPreference("network.proxy.type", 0);
