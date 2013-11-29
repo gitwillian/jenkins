@@ -24,7 +24,7 @@ public class JenkinsGit {
         float test = 0;
         
         System.out.println(testJenkins + test + "williansadfasdf");
-        
+        System.exit(0);
 //        WebDriver driver = null;
 //        FirefoxProfile profile = new FirefoxProfile();
 //        profile.setPreference("network.proxy.type", 0);
@@ -40,12 +40,5 @@ public class JenkinsGit {
 //        quit.tearDown(driver);
     }
 
-    public static class Quit {
-
-        public void tearDown(WebDriver driver) {
-            driver.close();
-            driver.quit();
-            System.exit(0);
-        }
-    }
+    
 }
