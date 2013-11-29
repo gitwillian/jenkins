@@ -6,13 +6,12 @@ package jenkinsgit;
 
 
 import java.io.IOException;
-import java.util.concurrent.TimeUnit;
-import org.apache.commons.io.FileUtils;
-import org.openqa.selenium.By;
 
 
-import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.firefox.FirefoxProfile;
+
+
+
+
 
 
 public class JenkinsGit {
@@ -24,7 +23,7 @@ public class JenkinsGit {
         String testJenkins = "testeJnekins";
         float test = 0;
         
-        System.out.println(testJenkins + test + "willian");
+        System.out.println(testJenkins + test + "williansadfasdf");
         
 //        WebDriver driver = null;
 //        FirefoxProfile profile = new FirefoxProfile();
