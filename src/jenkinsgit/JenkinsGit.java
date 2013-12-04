@@ -23,7 +23,7 @@ public class JenkinsGit {
         String testJenkins = "testeJnekins";
         float test = 0;
         
-        System.out.println(testJenkins + test + "williansadfasdf");
+        System.out.println(testJenkins + test + "wf");
         System.exit(0);
 //        WebDriver driver = null;
 //        FirefoxProfile profile = new FirefoxProfile();
